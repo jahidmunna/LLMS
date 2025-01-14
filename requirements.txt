@@ -1,7 +1,7 @@
 accelerate==0.20.3
 chromadb==0.4.8
 faiss-cpu==1.7.4
-langchain==0.0.173
+langchain==0.2.5
 # mkl # for windows or intel based systems
 # mkl-include # for windows or intel based systems
 pdf2image==1.16.3
